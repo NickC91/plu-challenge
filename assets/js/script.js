@@ -7,6 +7,9 @@ const canc = document.getElementById('canc')
 
 // I risultati si resettano ad ogni reload page
 let results = []
+let seconds = 0;
+let minutes = 0;
+let timerInterval;
 
 // Data.json e avvio logica
 fetch('./assets/json/data.json')
@@ -34,9 +37,8 @@ function startChallenge(data) {
 function gamingQuiz(data, counter) {
   let question = generateQuestion(data)
   let counterQuestion = checkQuestionCounter(counter)
-  console.log(question)
 
-  // Gestione Tasto INVIO
+  // Gestione Tasto Invio
   const clickHandler = () => {
     let answer = document.getElementById('codice-plu').innerHTML
     checkSingleResult(data, question, answer, counterQuestion)
@@ -127,12 +129,10 @@ function showResults() {
     resultsHTML += `<div><strong>${result.question}</strong>: ${resultHTML}</div>`
   }
   resultsContainer.innerHTML = resultsHTML
-
   const finalTime = document.getElementById("finalTimer");
   const minutes = String(Math.floor(seconds / 60)).padStart(2, "0");
   const secs = String(seconds % 60).padStart(2, "0");
   finalTime.textContent = `${minutes}:${secs}`;
-
   const exampleModal = new bootstrap.Modal(document.getElementById('exampleModal'))
   exampleModal.show()
 }
@@ -142,10 +142,7 @@ canc.addEventListener('click', () => {
   return document.getElementById('codice-plu').innerHTML = ''
 })
 
-let seconds = 0;
-let minutes = 0;
-let timerInterval;
-
+// Timer di partenza
 function startTimer() {
   seconds++;
   if (seconds > 59) {
@@ -156,6 +153,7 @@ function startTimer() {
   document.getElementById("minutes").textContent = minutes < 10 ? "0" + minutes : minutes;
 }
 
+// Azione allo start / stop del timer
 function timerChallenge(action) {
   if (action === "start") {
     timerInterval = setInterval(startTimer, 1000);
