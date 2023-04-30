@@ -1,0 +1,274 @@
+{
+  "bread": [
+    {
+      "name": "baguette",
+      "plu": 915,
+      "ean": 724376,
+      "img": "https://images.ctfassets.net/c482bjobquwm/4HW19HTGK0AOUSaHF51k6o/3359110e52186172714eeefbb93ba836/LP_BAG32_COTTO.jpg"
+    },
+    {
+      "name": "baguette ai semi",
+      "plu": 938,
+      "ean": 86137,
+      "img": "https://vandemoortele.com/sites/default/files/styles/large/public/2021-02/51875%20baguette%20integrale%20semi%20conad%207.jpg?itok=jBSdnhmp"
+    },
+    {
+      "name": "barretta ai cereali",
+      "plu": 19882,
+      "ean": 19882,
+      "img": "https://offers.kd2.org/pics/13/5e/135e5eac4497adf0819ff98abd06258cd0464253.jpg"
+    },
+    {
+      "name": "bastoncino alle noci",
+      "plu": 927,
+      "ean": 15289,
+      "img": "https://vandemoortele.com/sites/default/files/styles/square_product/public/c38029034ad6711172335881c14bd4035bd03a05.jpg?itok=jB-jfdzu"
+    },
+    {
+      "name": "bastoncino alle olive",
+      "plu": 912,
+      "ean": 728000,
+      "img": "https://vandemoortele.com/sites/default/files/styles/square_product/public/589907714b3054c9605cf079178eefda20d8c14d.jpg?itok=VSnEt5ny"
+    },
+    {
+      "name": "bauletto mantovano",
+      "plu": 910,
+      "ean": 728010,
+      "img": "https://offers.kd2.org/pics/40/28/40280639e6e84d854ef2dd939010c927901066fe.jpg"
+    },
+    {
+      "name": "panino bianco",
+      "plu": 891,
+      "ean": 70165,
+      "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61xqLqsFuiL._AC_SX522_.jpg"
+    },
+    {
+      "name": "fagottino cioccolato",
+      "plu": 970,
+      "ean": 704385,
+      "img": "https://www.albagel.it/1147-medium_default/fagottino-cioccola.jpg"
+    },
+    {
+      "name": "panino fitness",
+      "plu": 966,
+      "ean": 43364,
+      "img": "https://www.anticopanificiopianoscarano.it/wp-content/uploads/2020/03/Pane_sporty-1.jpg"
+    },
+    {
+      "name": "quadrotto olive",
+      "plu": 929,
+      "ean": 728201,
+      "img": "https://offers.kd2.org/pics/03/77/0377719017914870e97f576e5a4cc323794d9495.jpg"
+    },
+    {
+      "name": "rosetta",
+      "plu": 6,
+      "ean": 46824,
+      "img": "https://foppa.com/wp-content/uploads/2021/01/BT61T.jpg"
+    },
+    {
+      "name": "tartaruga",
+      "plu": 913,
+      "ean": 728005,
+      "img": "https://d21mug5vzt7ic2.cloudfront.net/s24/82419/resize/82419_1.jpg"
+    },
+    {
+      "name": "chioccola curcuma",
+      "plu": 945,
+      "ean": 722902,
+      "img": "https://vandemoortele.com/sites/default/files/styles/square_product/public/ed3d2d0addfa066a61cf231aca627283373af84c.jpg?itok=EXUq6dPM"
+    },
+    {
+      "name": "bozza",
+      "plu": 959,
+      "ean": 728001,
+      "img": "https://vandemoortele.com/sites/default/files/styles/large/public/2020-11/49175%20-%20bozza-min.jpg?itok=JduA4-dj"
+    },
+    {
+      "name": "calzone",
+      "plu": 916,
+      "ean": 724378,
+      "img": "https://www.algel.it/file/000225.JPG"
+    },
+    {
+      "name": "ciabatta",
+      "plu": 937,
+      "ean": 704044,
+      "img": "https://madiaspa.it/wp-content/uploads/2018/10/806020680.jpg"
+    },
+    {
+      "name": "ciabatta alle olive",
+      "plu": 923,
+      "ean": 66480,
+      "img": "https://www.miaspesa.it/image/resize-big?img=https%3A%2F%2Fwww.supermercato24.it%2Fasset%2Fsmhd%2F29a41%2F8b9a9%2F2ae18%2F736036972_img.jpg"
+    },
+    {
+      "name": "girella alla pizza",
+      "plu": 997,
+      "ean": 86735,
+      "img": "https://www.bridor.com/medias/sys_master/images/images/hf4/hee/8801870086174/HR-Q-33140-roule-pizza-120g.png"
+    },
+    {
+      "name": "mini baguette",
+      "plu": 930,
+      "ean": 727031,
+      "img": "https://d21mug5vzt7ic2.cloudfront.net/s24/117900/resize/117900_main.jpg"
+    },
+    {
+      "name": "pagnotta grano duro",
+      "plu": 918,
+      "ean": 728002,
+      "img": "https://d21mug5vzt7ic2.cloudfront.net/s24/96021/resize/96021_1.jpg"
+    },
+    {
+      "name": "pagnotta senza sale",
+      "plu": 914,
+      "ean": 728025,
+      "img": "https://d21mug5vzt7ic2.cloudfront.net/s24/96021/resize/96021_1.jpg"
+    },
+    {
+      "name": "pagnotta lino e girasole",
+      "plu": 924,
+      "ean": 728027,
+      "img": "https://offers.kd2.org/pics/5c/d5/5cd5461a1a684d71d5943f593c0808893d27a32a.jpg"
+    },
+    {
+      "name": "palatella napoletana",
+      "plu": 944,
+      "ean": 728020,
+      "img": "https://abbondanzadelpane.com/wp-content/uploads/2020/09/palatella-3.jpg"
+    },
+    {
+      "name": "pagnotta multicereali (lunga)",
+      "plu": 963,
+      "ean": 715454,
+      "img": "https://offers.kd2.org/pics/89/74/897486028d15a3ff99a1a48f8bfd759ba1969f20.jpg"
+    },
+    {
+      "name": "pagnotta gransole con semi",
+      "plu": 968,
+      "ean": 715456,
+      "img": "https://prodotti.caterlinespa.it/sites/default/files/catalogoweb/gransole-integr_-c_semi-pagnotta-g_500-x-20-pz-%2819487%29-precot_sr.jpg"
+    },
+    {
+      "name": "pagnotta rustica",
+      "plu": 961,
+      "ean": 715457,
+      "img": "https://offers.kd2.org/pics/2b/8b/2b8b8a8444d04a260c332140f3607ebc54612973.jpg"
+    },
+    {
+      "name": "conchiglia gianduia",
+      "plu": 975,
+      "ean": 15043,
+      "img": "https://offers.kd2.org/pics/e4/79/e4796d21c2c81c11ee6e65e86cf7d8097bc48ab1.jpg"
+    },
+    {
+      "name": "cornetto albicocca",
+      "plu": 955,
+      "ean": 67039,
+      "img": "https://cdn.bauligroup.com/thumbnails/_default_upload_bucket/image-thumb__9532__catalog-product-render-image/albicocca_croissant_1.png"
+    },
+    {
+      "name": "cornetto crema",
+      "plu": 960,
+      "ean": 67042,
+      "img": "https://www.ilpasticcere.it/content/dam/il-pasticcere/prodotti/cornetti/maestrocrema.png/jcr:content/renditions/cq5dam.web.768.576.png"
+    },
+    {
+      "name": "cornetto nocciola",
+      "plu": 965,
+      "ean": 704404,
+      "img": "https://www.ilpasticcere.it/content/dam/il-pasticcere/prodotti/cornetti/elite_nocciolecacao.png/jcr:content/renditions/cq5dam.web.768.576.png"
+    },
+    {
+      "name": "cornetto vuoto",
+      "plu": 950,
+      "ean": 14380,
+      "img": "https://www.ilpasticcere.it/content/dam/il-pasticcere/prodotti/cornetti/dirittovuoto.png/_jcr_content/renditions/cq5dam.web.768.576.png"
+    },
+    {
+      "name": "donut cioccolato",
+      "plu": 911,
+      "ean": 724919,
+      "img": "https://www.mcdonalds.it/sites/default/files/products/cioccolato_isolated.png"
+    },
+    {
+      "name": "krapfen cream",
+      "plu": 952,
+      "ean": 66999,
+      "img": "https://www.arcasrl.com/wp-content/uploads/krapfen-farcitura-crema.jpg"
+    },
+    {
+      "name": "panscro",
+      "plu": 922,
+      "ean": 711215,
+      "img": "https://unipan-bakery.com/wp-content/uploads/2020/12/PS051U_PanScro_classic_FIANCO-1024x683.jpg"
+    },
+    {
+      "name": "cornetto pistacchio",
+      "plu": 967,
+      "ean": 726511,
+      "img": "https://www.algidaacademy.it/sites/default/files/2021-03/20dv035_top_pistacchio.jpg"
+    },
+    {
+      "name": "treccia crema amarena",
+      "plu": 984,
+      "ean": 72362,
+      "img": "https://s7g10.scene7.com/is/image/aldi/Treccia-crema-e-amarena-1.png"
+    },
+    {
+      "name": "muffin nutella",
+      "plu": 962,
+      "ean": 722231,
+      "img": "https://www.puntoqui.com/img/7mu--nutella-muffin-8pz-688gri.png"
+    },
+    {
+      "name": "barchetta margherita",
+      "plu": 973,
+      "ean": 709007,
+      "img": "https://offers.kd2.org/pics/59/73/5973b8a21cef4eb4f979920ad09072331ad44e4c.jpg"
+    },
+    {
+      "name": "bretzel",
+      "plu": 7,
+      "ean": 31450,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/47/Pretzel_01-14.jpg"
+    },
+    {
+      "name": "filoncino ranno",
+      "plu": 8,
+      "ean": 31451,
+      "img": "https://catalogo.fiereparma.it/wp-content/uploads/2020/03/filoncino-al-ranno-crudo-prelievitato.jpg"
+    },
+    {
+      "name": "focaccia stracchino",
+      "plu": 942,
+      "ean": 37714,
+      "img": "https://vandemoortele.com/sites/default/files/styles/square_product/public/13bfd3d091976b7ce56d16f43c26d38b18b16656.jpg?itok=m_bsFFEr"
+    },
+    {
+      "name": "focaccia tradizionale",
+      "plu": 939,
+      "ean": 67092,
+      "img": "https://vandemoortele.com/sites/default/files/styles/square_product/public/73b2f8f64ab4b1636af5f38e29574c3c652d83f8.jpg?itok=cTDtdFTy"
+    },
+    {
+      "name": "pizza margherita",
+      "plu": 940,
+      "ean": 715308,
+      "img": "https://objectstorage.eu-milan-1.oraclecloud.com/n/axl3hgtiszxy/b/Bucket-CRAI-IMG-PROD/o/images/catalog/eg-0062071/eg-0062071_1_big.jpg"
+    },
+    {
+      "name": "pane arabo",
+      "plu": 909,
+      "ean": 728013,
+      "img": "https://www.coopshop.it/photo/2020/05/08/20/main/photo/721786200_1_1.jpg"
+    },
+    {
+      "name": "panino al latte",
+      "plu": 908,
+      "ean": 722264,
+      "img": "https://dolciariaacquaviva.com/wp-content/uploads/2019/09/PALA01.jpg"
+    }
+  ]
+}
