@@ -10,28 +10,32 @@
   <link href="./assets/style/style.css" rel="stylesheet">
   <title>PLU PANE CHALLENGE</title>
 </head>
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-  aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Risultato finale: <span id="finalTimer"></span></h5>
-        <button onClick="window.location.reload();" type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <div id="resultsContainer">
+<div id="mobile-message">Questa applicazione è ottimizzata per essere visualizzata su tablet con orientamento
+  orizzontale e PC. Si prega di visitare il
+  sito da uno di questi dispositivi.</div>
+<div class="container">
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Risultato finale: <span id="finalTimer"></span></h5>
+          <button onClick="window.location.reload();" type="button" class="close" data-dismiss="modal"
+            aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
         </div>
-      </div>
-      <div class="modal-footer">
-        <button onClick="window.location.reload();" type="button" class="btn btn-secondary"
-          data-dismiss="modal">Reset</button>
+        <div class="modal-body">
+          <div id="resultsContainer">
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button onClick="window.location.reload();" type="button" class="btn btn-secondary"
+            data-dismiss="modal">Reset</button>
+        </div>
       </div>
     </div>
   </div>
-</div>
-<div class="container">
   <div class="row mt-5">
     <div class="col-6">
       <div class="text-center">
